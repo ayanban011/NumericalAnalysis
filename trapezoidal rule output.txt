@@ -1,0 +1,4 @@
+Enter the no of interval =8
+Enter the lower limit=0
+Enter the upper limit=4
+the value of y is=5.265042

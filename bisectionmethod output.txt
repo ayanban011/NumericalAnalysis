@@ -1,0 +1,18 @@
+Enter the values of a, b, allowed error and maximum iterations:
+0 2 0.0001 25
+Iteration no.   1 X = 1.00000
+Iteration no.   2 X = 1.50000
+Iteration no.   3 X = 1.75000
+Iteration no.   4 X = 1.87500
+Iteration no.   5 X = 1.93750
+Iteration no.   6 X = 1.96875
+Iteration no.   7 X = 1.98438
+Iteration no.   8 X = 1.99219
+Iteration no.   9 X = 1.99609
+Iteration no.  10 X = 1.99805
+Iteration no.  11 X = 1.99902
+Iteration no.  12 X = 1.99951
+Iteration no.  13 X = 1.99976
+Iteration no.  14 X = 1.99988
+Iteration no.  15 X = 1.99994
+After 15 iterations, root = 1.9999

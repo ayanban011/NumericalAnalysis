@@ -1,0 +1,18 @@
+
+Enter the number of observations:
+3
+
+Enter the different values of x:
+1
+2
+3
+
+The corresponding values of y are:
+1
+4
+9
+
+Enter the value of 'k' in f(k) you want to evaluate:
+6
+
+f(6) = 36

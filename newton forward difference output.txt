@@ -1,0 +1,15 @@
+
+Enter the value of n:
+3
+
+Enter the values in form x,y:
+100 10.63
+200 13.03
+300
+15.06
+400 17.06
+
+Enter the value of x for which the value of y is wanted:
+218
+
+When x =  218.0, corresponding y =  13.40

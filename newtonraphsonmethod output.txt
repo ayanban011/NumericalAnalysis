@@ -1,0 +1,26 @@
+
+Enter x0, allowed error and maximum iterations
+2
+0.0000000001
+20
+ At Iteration no.   1, x =  2.813170
+ At Iteration no.   2, x =  2.741109
+ At Iteration no.   3, x =  2.740646
+ At Iteration no.   4, x =  2.740646
+ At Iteration no.   5, x =  2.740646
+ At Iteration no.   6, x =  2.740646
+ At Iteration no.   7, x =  2.740646
+ At Iteration no.   8, x =  2.740646
+ At Iteration no.   9, x =  2.740646
+ At Iteration no.  10, x =  2.740646
+ At Iteration no.  11, x =  2.740646
+ At Iteration no.  12, x =  2.740646
+ At Iteration no.  13, x =  2.740646
+ At Iteration no.  14, x =  2.740646
+ At Iteration no.  15, x =  2.740646
+ At Iteration no.  16, x =  2.740646
+ At Iteration no.  17, x =  2.740646
+ At Iteration no.  18, x =  2.740646
+ At Iteration no.  19, x =  2.740646
+ At Iteration no.  20, x =  2.740646
+ The required solution does not converge or iterations are insufficient

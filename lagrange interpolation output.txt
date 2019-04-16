@@ -1,0 +1,33 @@
+
+
+ Enter the number of the terms of the table: 3
+
+
+ Enter the respective values of the variables x and y:
+1
+2
+2
+4
+3
+6
+
+
+ The table you entered is as follows :
+
+1.000   2.000
+2.000   4.000
+3.000   6.000
+
+
+
+ Enter the value of the x to find the respective value of y
+
+
+4
+
+
+ The respective value of the variable y is: 8.000000
+
+ Do you want to continue?
+
+ Press 1 to continue and any other key to exit8

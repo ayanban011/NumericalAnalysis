@@ -1,0 +1,11 @@
+ Given f(x)= x^3 + 2x^2 - 4x - 5
+Enter lower limit
+0
+Enter Upper Limit
+4
+Enter the number of intervals :
+10
+The Value of integral under the enterd limits is :
+34.5372
+The Total Error is :
+-0.002304

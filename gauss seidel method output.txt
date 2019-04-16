@@ -1,0 +1,15 @@
+ Eneter the elemrnts of augmented matrix rowwise
+
+2
+-7
+3
+-9
+4
+8
+ Eneter the allowed error and maximum number of iteration: 0.000001
+20
+Iteration       x[1]    x[2]
+     1      1.5000          5.3750
+ Converses in   1 iteration
+a[  1]= 1.5000
+a[  2]= 5.3750
