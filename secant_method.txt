@@ -1,0 +1,12 @@
+ALGORITHM: SECANT METHOD
+
+
+Initialize: x1, x2, E, n         // E = convergence indicator
+calculate f(x1),f(x2)
+
+if(f(x1) * f(x2) = E); //repeat the loop until the convergence
+    print 'x0' //value of the root
+    print 'n' //number of iteration
+}
+else
+    print "can not found a root in the given interval"
